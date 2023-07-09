@@ -22,7 +22,7 @@ export default function HomePage() {
       <TitleBar title={t("HomePage.title")} primaryAction={null} />
       <Layout>
         <p>
-          App is running
+          App is running x
         </p>
       </Layout>
     </Page>
